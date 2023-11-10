@@ -1,4 +1,4 @@
-## Title of the project 1: “Sales Data Analysis”
+## Sales Data Analysis
  
 ### Purpose:
 Analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making.
